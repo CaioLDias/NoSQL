@@ -1,0 +1,46 @@
+[
+  {
+    "ID": 1,
+    "Nome": "João Grilo",
+    "Endereço": "Rua Suassuna, 30, João Pessoa, PB",
+    "Cargo": "Contador",
+    "Jornada": "40 horas",
+    "Salário": "R$ 3.000,00",
+    "Emails": [
+      "grilo@mail.com",
+      "joaog@mk.com"
+    ]
+  },
+  {
+    "ID": 2,
+    "Nome": "Ada Byron",
+    "Endereço": "Rua Lovelace, 67, London",
+    "Cargo": "Developer",
+    "Jornada": "20 horas",
+    "Salário": "R$ 15.000,00",
+    "Emails": [
+      "ada@mail.com",
+      "abyron@tech.com"
+    ]
+  },
+  {
+    "ID": 3,
+    "Nome": "Gerundino",
+    "Endereço": "Rua Substantivo, 78, Bairro Predicado, Mesóclise-AC",
+    "Cargo": "Linguista",
+    "Jornada": "44 horas",
+    "Salário": "R$ 8.000,00",
+    "Emails": [
+      "gerundino@gmail.com"
+    ]
+  },
+  {
+    "ID": 4,
+    "Nome": "Chicó",
+    "Endereço": "Rua Eurico, 50, Apt 28, Bloco C, João Pessoa, PB",
+    "Cargo": "Developer",
+    "Jornada": "20 horas",
+    "Salário": "R$ 15.000,00",
+    "Emails": []
+  }
+]
